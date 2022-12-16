@@ -189,7 +189,18 @@ section #cliffpics {
   padding: 0.5em 0 0 0;
   margin: 1em;
   text-align: center;
-  width: 500px;
+  width: 380px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 380px;
+  height: 233px;
+  padding: 0.5em 0 0 0;
+}
+h3 {
+  font: bold;
+  color: white;
 }
 
 /*Contact*/
